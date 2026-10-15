@@ -1,1 +1,1 @@
-console.log("main.js wurde geladen");
+console.log("MAIN JS LÄUFT 😄");
